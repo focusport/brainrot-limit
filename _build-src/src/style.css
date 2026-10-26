@@ -691,3 +691,5 @@ em.serif, .hero h1 em { font-family: "Instrument Serif", Georgia, "Times New Rom
 /* LCP fix: hero headline and phone screenshots are visible from first paint (opacity/clipped starts hide them from LCP) */
 h1 .ln>span{transform:none;animation:none}
 .hero-shots.rise{opacity:1;transform:none;animation:none}
+/* Mobile speed: hero entrance elements are visible from first paint (their delayed fade-in pushed LCP later) */
+.rise{opacity:1;transform:none;animation:none}
