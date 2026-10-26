@@ -3,17 +3,17 @@
 > Brainrot (app name: Brainrot: Reel Limit) is a free Android app that counts and caps short-video feeds (Instagram Reels, YouTube Shorts, Facebook Reels, Snapchat Spotlight), sets daily time limits on any app, and runs timed focus sessions. Processing is on-device; no account is required.
 
 ## Key pages
-- [Home](https://focusport.in/): overview
-- [Features](https://focusport.in/features.html)
-- [How it works](https://focusport.in/how-it-works.html)
-- [Screen time controller](https://focusport.in/screen-time-controller.html)
-- [Instagram Reels blocker](https://focusport.in/instagram-reels-blocker.html)
-- [YouTube Shorts blocker](https://focusport.in/youtube-shorts-blocker.html)
-- [Short video blocker](https://focusport.in/short-video-blocker.html)
-- [Comparison](https://focusport.in/comparison.html)
-- [FAQ](https://focusport.in/faq.html)
-- [Blog](https://focusport.in/blog/)
-- [Privacy](https://focusport.in/privacy.html)
+- [Home](https://brainrot.focusport.in/): overview
+- [Features](https://brainrot.focusport.in/features.html)
+- [How it works](https://brainrot.focusport.in/how-it-works.html)
+- [Screen time controller](https://brainrot.focusport.in/screen-time-controller.html)
+- [Instagram Reels blocker](https://brainrot.focusport.in/instagram-reels-blocker.html)
+- [YouTube Shorts blocker](https://brainrot.focusport.in/youtube-shorts-blocker.html)
+- [Short video blocker](https://brainrot.focusport.in/short-video-blocker.html)
+- [Comparison](https://brainrot.focusport.in/comparison.html)
+- [FAQ](https://brainrot.focusport.in/faq.html)
+- [Blog](https://brainrot.focusport.in/blog/)
+- [Privacy](https://brainrot.focusport.in/privacy.html)
 
 ## Facts
 - Platform: Android only. Price: free. Permission: Accessibility Service (used to detect short-video screens and swipes).

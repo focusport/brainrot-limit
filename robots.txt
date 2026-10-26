@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://focusport.in/sitemap.xml
+Sitemap: https://brainrot.focusport.in/sitemap.xml
