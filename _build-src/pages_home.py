@@ -251,6 +251,6 @@ def home():
                     "isPartOf": {"@id": SITE + "/#website"}, "about": {"@id": SITE + "/#app"}, "primaryImageOfPage": {"@type": "ImageObject", "url": OG_IMAGE}}]
     return page("index.html",
         "Brainrot: Reel Limiter & Screen Time App for Android",
-        "Count and cap Instagram Reels, YouTube Shorts, Facebook Reels and Snapchat Spotlight on Android. Stop doomscrolling, keep your DMs. Free and private.",
+        "Free Android reel limiter: counts Instagram Reels, YouTube Shorts, Facebook Reels and Spotlight, then blocks the feed at your daily limit. No account.",
         body, root=r, current="index.html", schema=schema,
         keywords="brainrot, brainrot app, stop brainrot, brain rot app, brainrot reel limit, reel limiter, reels blocker android, block instagram reels, youtube shorts blocker, stop doomscrolling app, screen time controller android, short video limit, app limit android, digital wellbeing app, focus app android, Brainrot")
