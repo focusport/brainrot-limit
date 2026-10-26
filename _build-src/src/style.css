@@ -512,7 +512,7 @@ html.theme-anim *, html.theme-anim *::before, html.theme-anim *::after { transit
 ::view-transition-new(root) { animation: .45s var(--ease) both vtIn; }
 @keyframes vtOut { to { opacity: 0; } }
 @keyframes vtIn { from { opacity: 0; transform: translateY(8px); } }
-body { animation: pageIn .6s var(--ease) both; }
+body {  }
 @keyframes pageIn { from { opacity: 0; } }
 .site-header.hide { transform: translateY(-100%); }
 
@@ -687,3 +687,7 @@ em.serif, .hero h1 em { font-family: "Instrument Serif", Georgia, "Times New Rom
 .drawer .btn { display: flex; justify-content: center; align-items: center; gap: .6rem; }
 .float-cta i { flex: none; }
 .float-cta span { min-width: 0; }
+
+/* LCP fix: hero headline and phone screenshots are visible from first paint (opacity/clipped starts hide them from LCP) */
+h1 .ln>span{transform:none;animation:none}
+.hero-shots.rise{opacity:1;transform:none;animation:none}
